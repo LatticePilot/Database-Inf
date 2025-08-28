@@ -104,6 +104,6 @@ Collects garbage that was *never created*, freeing space that was *never occupie
 
 ### Clone Instructions
 ```bash
-git clone https://github.com/yourhandle/DBInfinity.git
+git clone https://github.com/LatticePilot/Database-Inf.git
 # If the repo appears empty, it’s working.
 ```
